@@ -1,6 +1,19 @@
 <footer class="site-footer">
     <div class="wrapper">
         <div class="credits">based on <a href="https://github.com/bitbrain/jekyll-dash">dash</a> theme for Jekyll by <a href="https://github.com/bitbrain">bitbrain</a> made with <i class="fas fa-heart"></i>
+
+            <b class="command_prompt"></b><b class="blinking_cursor">_</b></a>
+
+            <span class="social_links">
+              {% for link in site.dash.social_links %}
+              {% if link.fa == true %}
+              <a class="color-{{ link.color }}-hover" href="{{ link.url }}" target="_blank"><i class="fa fa-{{ link.icon }}"></i></a>
+              {% else %}
+              <a class="color-{{ link.color }}-hover" href="{{ link.url }}" target="_blank"><i class="fab fa-{{ link.icon }}"></i></a>
+              {% endif %}
+              {% endfor %}
+            </span>
+            
             {%- include theme-toggle.html -%}
         </div>
     </div>
