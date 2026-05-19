@@ -3,16 +3,15 @@
 layout: page
 ---
 
-# Building immersive worlds
-### Bit by bit
+# BUILDING IMMERSIVE WORLDS
+> Bit by bit
+
+bitfish is a small software and game developer based out of Ohio in the United States that is currently building the video game Wayward Beyond, and the Swordfish engine behind it.
 
 By focusing on the user first, bitfish aims to deliver fun, creative, and immersive experiences to players as well as innovative solutions to developers.
 
-bitfish projects
+Wayward Beyond
 {: class="console"}
-
-# Wayward Beyond
-### Video Game
 
 ![wayward beyond](/images/library_header.png)
 
@@ -22,8 +21,8 @@ Development has been ongoing since Q4 2025 and a free playtest will be launching
 
 [Read more on Steam](https://store.steampowered.com/app/385280/Wayward_Beyond/)
 
-# Swordfish
-### Engine
+Swordfish Engine
+{: class="console"}
 
 ![swordfish](/images/banner.png)
 
