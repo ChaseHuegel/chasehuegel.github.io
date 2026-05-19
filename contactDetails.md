@@ -6,7 +6,7 @@ Want to join the community? The Discord server can be used to ask questions, pro
 
 [Join Discord](https://discord.com/invite/dJJH5UXm9C)
 
-## Contact
+## General
 For all general inquiries, you can reach out through email below.
 
 [contact@bitfish.dev](mailto:support@bitfish.dev)
