@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Chase Huegel
-email: chase@chasehuegel.io
+title: bitfish
+email: contact@bitfish.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Chase is an enthusiastic developer and problem solver with a strong foundation in business & tech. He is a father, hobby artist, go-to tech support, and dungeon master that loves the great outdoors and adventures in coding.
+  bitfish is a small software and game developer based out of Ohio in the United States that is currently building the video game Wayward Beyond, and the Swordfish engine behind it.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://chasehuegel.io" # the base hostname & protocol for your site
+url: "https://bitfish.dev" # the base hostname & protocol for your site
 twitter_username: WaywardBeyond
 github_username: ChaseHuegel
 show_excerpts: false # set to true to show excerpts on the homepage
@@ -82,10 +82,10 @@ dash:
   rtl: false
 
   # Replaces the default avatar provider (gravatar)
-  avatar_source: github
+  # avatar_source: github
   github_username: ChaseHuegel
-  #avatar_source: local
-  #avatar_path: /assets/avatar.png
+  avatar_source: local
+  avatar_path: /images/swordfish.png
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
@@ -102,7 +102,7 @@ dash:
     - url: https://www.youtube.com/channel/UCBhp15ZCM8WtBIGOVXVZ3Lw
       icon: youtube-square
       color: red
-    - url: https://discordapp.com/users/126193359999074304
+    - url: https://discord.com/invite/dJJH5UXm9C
       icon: discord
       color: purple
 

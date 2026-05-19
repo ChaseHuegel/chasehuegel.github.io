@@ -1,8 +1,22 @@
-Want to chat? Reach out anywhere below
+Contact
 {: class="console"}
 
-Email [chase@chasehuegel.io](mailto:chase@chasehuegel.io)
+## Discord
+Want to join the community? The Discord server can be used to ask questions, provide feedback, engage with developers, and get the latest news and updates.
 
-Discord [Seven#0639](https://discordapp.com/users/126193359999074304){: target="_blank"}
+[Join Discord](https://discord.com/invite/dJJH5UXm9C)
 
-LinkedIn [linkedin.com/in/chase-huegel-62532220b](https://www.linkedin.com/in/chase-huegel-62532220b/){: target="_blank"}
+## Contact
+For all general inquiries, you can reach out through email below.
+
+[contact@bitfish.dev](mailto:support@bitfish.dev)
+
+## Support
+Have a question or need some help with Wayward Beyond or Swordfish? You may also reach out through email instead of Discord.
+
+[support@bitfish.dev](mailto:support@bitfish.dev)
+
+## Business
+For all business inquiries, you can reach out through email below.
+
+[business@bitfish.dev](mailto:business@bitfish.dev)
