@@ -10,8 +10,8 @@ bitfish is a small software and game developer based out of Ohio in the United S
 
 By focusing on the user first, bitfish aims to deliver fun, creative, and immersive experiences to players as well as innovative solutions to developers.
 
-{% include_relative waywardbeyond.md %}
+{% include_relative waywardbeyondDetails.md %}
 
-{% include_relative swordfish.md %}
+{% include_relative swordfishDetails.md %}
 
 {% include_relative contactDetails.md %}
