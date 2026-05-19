@@ -19,7 +19,7 @@ A retro-future sandbox RPG set in a frontier era galaxy with procedurally-genera
 
 Development has been ongoing since Q4 2025 and a free playtest will be launching soon on Steam. Development will be open to user feedback to help shape the game before moving into Early Access.
 
-[Read more on Steam](https://store.steampowered.com/app/385280/Wayward_Beyond/)
+## [Read more on Steam](https://store.steampowered.com/app/385280/Wayward_Beyond/)
 
 Swordfish Engine
 {: class="console"}
@@ -30,6 +30,6 @@ A code-first C# engine built on ECS and multithreading with high performance and
 
 Development has been ongoing since 2021 and started with large game worlds in mind. It is being used to build Wayward Beyond as both a showcase of the engine and to meet the performance & modding demands of the game. Today it is fully featured with rendering, UI, ECS, input, audio, and asset management. Networking, scripting, and a visual editor are works in-progress.
 
-[See it on GitHub](https://github.com/ChaseHuegel/swordfish-engine)
+## [See it on GitHub](https://github.com/ChaseHuegel/swordfish-engine)
 
 {% include_relative contactDetails.md %}
