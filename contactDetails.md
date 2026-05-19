@@ -1,3 +1,6 @@
+Contact
+{: class="console"}
+
 ## Discord
 Want to join the community? The Discord server can be used to ask questions, provide feedback, engage with developers, and get the latest news and updates.
 
